@@ -1,0 +1,5 @@
+topic-models/chapbooks-r/.RData filter=lfs diff=lfs merge=lfs -text
+topic-models/chapbooks-r.zip filter=lfs diff=lfs merge=lfs -text
+*.Rdata filter=lfs diff=lfs merge=lfs -text
+*.RData filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
